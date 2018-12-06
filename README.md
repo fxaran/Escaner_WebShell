@@ -1,15 +1,15 @@
 # XWebShell V 1.0
 
-#Escaner de webshell busca e imprime los modulos vulnerables de archivos potencialmente peligrosos escritos en php
+# Escaner de webshell busca e imprime los modulos vulnerables de archivos potencialmente peligrosos escritos en php
 
-##Comandos:
+## Comandos:
 
-###Muestra la información
+### Muestra la información
 ```console
 python xwebshell.py -h << informacion
 ```
 
-###Ejecuta el script
+### Ejecuta el script
 ```console
 python xwebshell.py -r {Ruta de Guardado}
 ```
