@@ -1,6 +1,6 @@
 # XWebShell V 1.0
 
-# Escaner de webshell busca e imprime los modulos vulnerables de archivos potencialmente peligrosos escritos en php
+Escaner de webshell busca e imprime los modulos vulnerables de archivos potencialmente peligrosos escritos en php
 
 ## Comandos:
 
